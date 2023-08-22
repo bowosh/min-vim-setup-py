@@ -10,3 +10,6 @@ git clone https://github.com/dense-analysis/ale
 ## flake-8 (style guide)
 
 ## setup color schema
+
+
+....tbc
